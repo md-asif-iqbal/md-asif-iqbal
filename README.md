@@ -81,10 +81,10 @@ More projects can be explored in my [GitHub repositories](https://github.com/md-
         <img align="left" alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
     <a href="https://www.instagram.com/asif.iqbal_____/">
-        <img align="left" alt="Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+        <img align="left" alt="Instagram" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
     </a>
     <a href="https://www.facebook.com/asifiqbal2008">
-        <img align="left" alt="Facebook" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+        <img align="left" alt="Facebook" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
     </a>
 </p>
 
