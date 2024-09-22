@@ -68,7 +68,6 @@ I am **Md Asif Iqbal**, a **Software Engineer** with a **Bachelor’s degree in 
 
 - **[School Management System](https://github.com/md-asif-iqbal/school-management)**: Developed a school management platform that handles student records, attendance, and grading systems. Implemented with a focus on scalability and efficient database management using **Next.js**.
 
-- **[UIU Club and Forum Web App](https://github.com/md-asif-iqbal/uiu-club-forum-client-side)**: A full-stack e-commerce platform that provides a seamless shopping experience with dynamic product displays, real-time payment integration, and a responsive design using **React.js** and **node.js**.
 
 More projects can be explored in my [GitHub repositories](https://github.com/md-asif-iqbal?tab=repositories).
 
