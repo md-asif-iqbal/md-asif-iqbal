@@ -16,7 +16,7 @@
 
 ### 📝 About Me
 
-I am **Md Asif Iqbal**, a **Software Engineer** with a **Bachelor’s degree in Computer Science & Engineering (CSE)** from **United International University (UIU)**, majoring in **Software Engineering**. I specialize in **Full Stack Development** with expertise in the **MERN stack**. Currently, I am exploring how to integrate **Artificial Intelligence (AI)** into modern web applications to develop smarter, more innovative solutions.
+I am **Md Asif Iqbal**, a **Software Engineer** with a **Bachelor’s degree in Computer Science & Engineering (CSE)** from **United International University (UIU)**, majoring in **Software Engineering**. I specialize in **Full Stack Development** with expertise in the **Next.js**, **React.js** , **TypeScript**, **MongoDB**, **Python**,and **Django**. Currently, I am exploring how to integrate **Artificial Intelligence (AI)** into modern web applications to develop smarter, more innovative solutions.
 
 - 🎓 **Graduate in CSE** from **United International University (UIU)**, with a major in **Software Engineering**.
 - 🛠️ Proficient in **Next.js** and learning **AI integration** to stay ahead in tech innovation.
