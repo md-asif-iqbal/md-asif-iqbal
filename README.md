@@ -100,7 +100,7 @@ More projects can be explored in my [GitHub repositories](https://github.com/md-
 
 ### 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=md-asif-iqbal&theme=monokai)
+![trophy](https://github-profile-trophy.vercel.app/?username=md-asif-iqbal&theme=darkhub).
 
 ---
 
