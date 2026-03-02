@@ -127,101 +127,100 @@ Docker / DevOps       ███████████████████�
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
-<!-- ===== PROJECT 1: CINEWAVE ===== -->
+<table>
+<tr>
+<td width="50%">
 
-<h3>🎬 CINEWAVE — Netflix-Style Movie Streaming Platform</h3>
+### 🎬 [CINEWAVE — Movie Streaming Platform](https://github.com/md-asif-iqbal/CINEWAVE-Movie-Platform)
 
 <a href="https://github.com/md-asif-iqbal/CINEWAVE-Movie-Platform">
-  <img src="https://socialify.git.ci/md-asif-iqbal/CINEWAVE-Movie-Platform/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="CINEWAVE" />
+  <img src="./assets/cinewave.png" width="100%" alt="CINEWAVE — Netflix-style Movie Streaming Platform" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/SSLCommerz-FF6B00?style=for-the-badge" alt="SSLCommerz" />
-  <img src="https://img.shields.io/badge/NextAuth-000?style=for-the-badge" alt="NextAuth" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSLCommerz-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 </p>
 
-> **Netflix-inspired** full-stack streaming platform with multi-profile support (5 per account), subscription payments via SSLCommerz, Google OAuth + Firebase Phone OTP auth, admin dashboard with analytics, YouTube video integration, Cloudinary image management & real-time search with Zustand state management.
+**Netflix-inspired** streaming — multi-profile (5/account), SSLCommerz payments, Google OAuth + Firebase OTP, admin dashboard, YouTube integration & real-time search.
 
-<br>
+</td>
+<td width="50%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🎓 [NexLearn — AI Education Platform](https://github.com/md-asif-iqbal/EDU-Platfrom-NexLearn)
 
-<!-- ===== PROJECT 2: NEXLEARN ===== -->
-
-<h3>🎓 NexLearn — AI-Powered Education Platform</h3>
-
-<a href="https://github.com/md-asif-iqbal/EDU-Platfrom-NexLearn">
-  <img src="https://socialify.git.ci/md-asif-iqbal/EDU-Platfrom-NexLearn/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" width="100%" alt="NexLearn" />
+<a href="https://edu-platfrom-nex-learn.vercel.app/">
+  <img src="./assets/nexlearn.gif" width="100%" alt="NexLearn — AI-Powered Education Platform" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Jitsi_Meet-97979A?style=for-the-badge&logo=jitsi&logoColor=white" alt="Jitsi" />
+  <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jitsi-97979A?style=flat-square&logo=jitsi&logoColor=white" />
 </p>
 
-> **AI-Powered** online tutoring platform with 4 Gemini AI tools (Homework Helper, Quiz Generator, Essay Checker, Study Planner), Stripe subscription payments, Jitsi live video sessions, 3 dashboards (Student/Tutor/Admin) & 27 routes.
+**AI-Powered** tutoring — 4 Gemini AI tools, Stripe payments, Jitsi live video, 3 dashboards (Student/Tutor/Admin) & 27 routes.
 
-🔗 **Live:** [edu-platfrom-nex-learn.vercel.app](https://edu-platfrom-nex-learn.vercel.app/)
+🔗 [**Live Demo**](https://edu-platfrom-nex-learn.vercel.app/)
 
-<br>
+</td>
+</tr>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<tr>
+<td width="50%">
 
-<!-- ===== PROJECT 3: AI INTERVIEW ===== -->
+### 🤖 [AI-Powered Interview System](https://github.com/md-asif-iqbal/Ai-Based-Interview-Systems)
 
-<h3>🤖 AI-Powered Interview System</h3>
-
-<a href="https://github.com/md-asif-iqbal/Ai-Based-Interview-Systems">
-  <img src="https://socialify.git.ci/md-asif-iqbal/Ai-Based-Interview-Systems/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark" width="100%" alt="AI Interview" />
+<a href="https://ai-based-interview-systems.vercel.app/">
+  <img src="./assets/ai-interview.gif" width="100%" alt="AI-Powered Interview System" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" alt="shadcn" />
-  <img src="https://img.shields.io/badge/Face_Detection-FF6F61?style=for-the-badge" alt="Face Detection" />
+  <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proctoring-FF6F61?style=flat-square" />
 </p>
 
-> **AI-Powered** interview platform with smart resume analysis, real-time proctoring (face detection, tab switching monitoring, fullscreen enforcement, screen recording), Gemini AI question generation & automated answer evaluation. Separate Candidate & Recruiter portals.
+**AI-Powered** interviews — smart resume analysis, real-time proctoring (face detection, tab switching, screen recording), Gemini AI question generation & answer evaluation.
 
-🔗 **Live:** [ai-based-interview-systems.vercel.app](https://ai-based-interview-systems.vercel.app/)
+🔗 [**Live Demo**](https://ai-based-interview-systems.vercel.app/)
 
-<br>
+</td>
+<td width="50%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🛒 [SoftLanding POS — Enterprise ERP](https://github.com/md-asif-iqbal/SoftLanding-POS-system)
 
-<!-- ===== PROJECT 4: SOFTLANDING POS ===== -->
-
-<h3>🛒 SoftLanding POS — Enterprise ERP System</h3>
-
-<a href="https://github.com/md-asif-iqbal/SoftLanding-POS-system">
-  <img src="https://socialify.git.ci/md-asif-iqbal/SoftLanding-POS-system/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" width="100%" alt="SoftLanding POS" />
+<a href="https://soft-landing-pos-system-v2.vercel.app/">
+  <img src="./assets/softlanding-pos.gif" width="100%" alt="SoftLanding POS — Enterprise ERP System" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts" />
-  <img src="https://img.shields.io/badge/61_Pages-6366f1?style=for-the-badge" alt="61 Pages" />
+  <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square" />
+  <img src="https://img.shields.io/badge/61_Pages-6366f1?style=flat-square" />
 </p>
 
-> **Enterprise-grade** POS with 61 production pages — real-time sales terminal, inventory management, 14 report modules (P&L, ledgers, CSV/Excel/PDF export), HR & payroll, RBAC roles, bank account management, dark mode & fully responsive design.
+**Enterprise-grade** POS — 61 pages, real-time sales, inventory, 14 report modules (P&L, CSV/Excel/PDF), HR & payroll, RBAC, dark mode.
 
-🔗 **Live:** [soft-landing-pos-system-v2.vercel.app](https://soft-landing-pos-system-v2.vercel.app/)
+🔗 [**Live Demo**](https://soft-landing-pos-system-v2.vercel.app/)
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
