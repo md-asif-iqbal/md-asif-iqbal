@@ -1,10 +1,25 @@
 <!-- ===== ANIMATED WAVE HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:7c3aed,50:a855f7,75:6366f1,100:0ea5e9&height=230&section=header&text=Md%20Asif%20Iqbal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descColor=e0e7ff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:7c3aed,50:a855f7,75:6366f1,100:0ea5e9&height=120&section=header&animation=twinkling" />
+
+<div align="center">
+
+```
+ ███╗   ███╗██████╗      █████╗ ███████╗██╗███████╗
+ ████╗ ████║██╔══██╗    ██╔══██╗██╔════╝██║██╔════╝
+ ██╔████╔██║██║  ██║    ███████║███████╗██║█████╗  
+ ██║╚██╔╝██║██║  ██║    ██╔══██║╚════██║██║██╔══╝  
+ ██║ ╚═╝ ██║██████╔╝    ██║  ██║███████║██║██║     
+ ╚═╝     ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝     
+```
+
+### `> Software Engineer`
+
+</div>
 
 <!-- ===== ANIMATED TYPING SVG ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%24+whoami+%E2%86%92+Full+Stack+Developer+%26+AI+Enthusiast;%24+cat+skills.txt+%E2%86%92+Next.js+%7C+React+%7C+TypeScript+%7C+MongoDB;%24+git+log+--oneline+%E2%86%92+69%2B+repos+%7C+10%2B+live+apps+shipped;%24+echo+%22Building+the+future+with+code+%F0%9F%9A%80%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%F0%9F%9A%80+Building+Intelligent+%26+Scalable+Web+Applications;%E2%9A%A1+Next.js+%7C+React+%7C+TypeScript+%7C+MongoDB+%7C+AI;%F0%9F%93%A6+69%2B+Repositories+%7C+10%2B+Live+Production+Apps;%F0%9F%92%BB+Turning+Ideas+Into+Powerful+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -268,21 +283,34 @@ Docker / DevOps       ███████████████████�
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Rig/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (using multiple reliable providers) -->
 <p align="center">
-  <a href="https://github.com/md-asif-iqbal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-asif-iqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/md-asif-iqbal">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=md-asif-iqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=md-asif-iqbal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=md-asif-iqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&ring_color=a855f7&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=md-asif-iqbal&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=md-asif-iqbal&theme=default&hide_border=true" />
     <img width="49%" src="https://streak-stats.demolab.com?user=md-asif-iqbal&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=6366f1&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-  </a>
+  </picture>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <a href="https://github.com/md-asif-iqbal">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-asif-iqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=md-asif-iqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=md-asif-iqbal&layout=compact&theme=default&hide_border=true&langs_count=10" />
+    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=md-asif-iqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+  </picture>
+</p>
+
+<!-- Profile Summary Cards (backup stats that always render) -->
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-asif-iqbal&theme=tokyonight" alt="Stats Summary" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-asif-iqbal&theme=tokyonight" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-asif-iqbal&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
