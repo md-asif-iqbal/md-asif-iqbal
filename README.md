@@ -1,6 +1,3 @@
-<!-- ===== ANIMATED WAVE HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:7c3aed,50:a855f7,75:6366f1,100:0ea5e9&height=120&section=header&animation=twinkling" />
-
 <div align="center">
 
 ```
@@ -10,6 +7,12 @@
  ██║╚██╔╝██║██║  ██║    ██╔══██║╚════██║██║██╔══╝  
  ██║ ╚═╝ ██║██████╔╝    ██║  ██║███████║██║██║     
  ╚═╝     ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝     
+       ██╗ ██████╗ ██████╗  █████╗ ██╗
+       ██║██╔═══██╗██╔══██╗██╔══██╗██║
+       ██║██║   ██║██████╔╝███████║██║
+       ██║██║▄▄ ██║██╔══██╗██╔══██║██║
+       ██║╚██████╔╝██████╔╝██║  ██║███████╗
+       ╚═╝ ╚══▀▀═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 ### `> Software Engineer`
@@ -227,8 +230,19 @@ Docker / DevOps       ███████████████████�
 <!-- ===== MORE PROJECTS ===== -->
 
 <details>
-<summary><h3>📂 All Other Notable Projects (Click to expand)</h3></summary>
+<summary>
+  <h3>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" />
+    📂 All Other Notable Projects (Click to expand)
+  </h3>
+</summary>
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Web+Apps;🤖+AI+%26+ML+Projects;📱+Enterprise+Solutions;🎮+Fun+%26+Experimental" />
+</p>
+
+#### 🌐 Web Applications — Full Stack
 
 | # | Project | Tech Stack | Live | Description |
 |:-:|:--------|:-----------|:----:|:------------|
@@ -236,20 +250,49 @@ Docker / DevOps       ███████████████████�
 | 2 | **[Product Management](https://github.com/md-asif-iqbal/Product-management-with-nextJS)** | Next.js 15, Redux Toolkit, MongoDB, JWT, Zod | [🔗](https://product-management-with-next-js-2ek.vercel.app/products) | Full-stack product system with RTK Query & auth |
 | 3 | **[NECX Messaging](https://github.com/md-asif-iqbal/NECX-Messaging-Frontend)** | React 18, Zustand, Vite 5, Node.js | [🔗](https://necx-messaging-frontend.vercel.app/) | Real-time messaging — multi-persona, optimistic UI |
 | 4 | **[BrightMind Blog](https://github.com/md-asif-iqbal/BrightMind-Blog-Fronend)** | React 18, Vite, TailwindCSS v4, MERN | [🔗](https://bright-mind-blog-fronend.vercel.app/) | Full MERN blog — JWT auth, admin panel, comments |
-| 5 | **[School Management](https://github.com/md-asif-iqbal/School-management)** | Next.js, TypeScript, MongoDB | — | Student & teacher management, grading, attendance |
-| 6 | **[Courier & Parcel](https://github.com/md-asif-iqbal/Courier-Parcel-Management-System-Frontend)** | JavaScript, Node.js, MongoDB | — | Parcel tracking, delivery scheduling |
-| 7 | **[E-KYC System](https://github.com/md-asif-iqbal/E-KYC-system-client-side)** | JavaScript, Node.js, MongoDB | — | Digital identity verification |
+| 5 | **[Todo App](https://github.com/md-asif-iqbal/todo-list)** | Next.js, Zod, MongoDB | [🔗](https://todo-list-smoky-tau-27.vercel.app/) | Task manager with validation & CRUD operations |
+| 6 | **[Read Books](https://github.com/md-asif-iqbal/read-your-fevourite-books)** | Next.js, JavaScript | [🔗](https://read-books-sand.vercel.app/) | Book reading platform with curated collections |
+| 7 | **[Portfolio v2](https://github.com/md-asif-iqbal/Asifs-Portfolio)** | TypeScript, Next.js | [🔗](https://asifsportfolio.vercel.app/) | Personal portfolio — career showcase & projects |
 | 8 | **[Take Your Smile](https://github.com/md-asif-iqbal/take-your-smile-client-side)** | TypeScript, React, Firebase | [🔗](https://event-management-system-chi-ten.vercel.app/) | Event management — team of 6, ⭐ 2 stars |
-| 9 | **[Face Recognition](https://github.com/md-asif-iqbal/Face-regonization-attandance-system)** | Python, OpenCV, Jupyter | — | AI face recognition attendance system |
-| 10 | **[Job Portal](https://github.com/md-asif-iqbal/job_portal)** | Python, Django | — | Job listing & application portal |
-| 11 | **[Chess Game](https://github.com/md-asif-iqbal/Chess-game-aoop)** | Java | — | Advanced OOP chess game |
-| 12 | **[UIU Club Forum](https://github.com/md-asif-iqbal/uiu-club-forum-client-side)** | JavaScript, React | — | University club forum |
-| 13 | **[Drone Manufacturer](https://github.com/md-asif-iqbal/drone-manufacturer-website-client-side)** | JavaScript, React | — | Drone company website & orders |
-| 14 | **[Blood Donation](https://github.com/md-asif-iqbal/blood-donation)** | JavaScript, React | — | Donor & recipient platform |
-| 15 | **[University Auth](https://github.com/md-asif-iqbal/university-management-auth-service-system)** | TypeScript | — | Auth microservice for university |
-| 16 | **[Doctors Portal](https://github.com/md-asif-iqbal/doctors-portal-client-sites)** | JavaScript, React, Tailwind | — | Doctor appointment booking |
-| 17 | **[Leave Management](https://github.com/md-asif-iqbal/LEAVE_MANAGEMENT)** | PHP | — | Employee leave request system |
-| 18 | **[Hostel Management](https://github.com/md-asif-iqbal/hostel-management-system)** | JavaScript | — | Hostel room allocation & billing |
+| 9 | **[Eclipse Bistro](https://github.com/md-asif-iqbal/eclipse-bistro-restaurants)** | JavaScript, React, Node.js | — | Restaurant management & ordering system |
+
+#### 🏢 Enterprise & Management Systems
+
+| # | Project | Tech Stack | Live | Description |
+|:-:|:--------|:-----------|:----:|:------------|
+| 10 | **[School Management](https://github.com/md-asif-iqbal/School-management)** | Next.js, TypeScript, MongoDB | — | Student & teacher management, grading, attendance |
+| 11 | **[Courier & Parcel](https://github.com/md-asif-iqbal/Courier-Parcel-Management-System-Frontend)** | JavaScript, Node.js, MongoDB | [🔗](https://courier-parcel-management-system-v1.vercel.app/) | Parcel tracking & delivery scheduling |
+| 12 | **[E-KYC System](https://github.com/md-asif-iqbal/E-KYC-system-client-side)** | JavaScript, Node.js, MongoDB | — | Digital identity verification |
+| 13 | **[Leave Management](https://github.com/md-asif-iqbal/LEAVE_MANAGEMENT)** | PHP | — | Employee leave request system |
+| 14 | **[Hostel Management](https://github.com/md-asif-iqbal/hostel-management-system)** | JavaScript | — | Hostel room allocation & billing |
+| 15 | **[Doctors Portal](https://github.com/md-asif-iqbal/doctors-portal-client-sites)** | JavaScript, React, Tailwind | — | Doctor appointment booking system |
+
+#### 🤖 AI, ML & Python Projects
+
+| # | Project | Tech Stack | Live | Description |
+|:-:|:--------|:-----------|:----:|:------------|
+| 16 | **[Face Recognition](https://github.com/md-asif-iqbal/Face-regonization-attandance-system)** | Python, OpenCV, Jupyter | — | AI face recognition attendance system |
+| 17 | **[Job Portal](https://github.com/md-asif-iqbal/job_portal)** | Python, Django | — | Job listing & application portal |
+
+#### 🎓 University & Community Projects
+
+| # | Project | Tech Stack | Live | Description |
+|:-:|:--------|:-----------|:----:|:------------|
+| 18 | **[UIU Club Forum](https://github.com/md-asif-iqbal/uiu-club-forum-client-side)** | JavaScript, React | — | University club discussion forum |
+| 19 | **[UIU Crowdfunding](https://github.com/md-asif-iqbal/uiu-crowdfounding-apps)** | JavaScript, React | — | University crowdfunding platform |
+| 20 | **[University Auth](https://github.com/md-asif-iqbal/university-management-auth-service-system)** | TypeScript | — | Auth microservice for university system |
+| 21 | **[Blood Donation](https://github.com/md-asif-iqbal/blood-donation)** | JavaScript, React | — | Donor & recipient matching platform |
+
+#### 🎮 Other & Experimental
+
+| # | Project | Tech Stack | Live | Description |
+|:-:|:--------|:-----------|:----:|:------------|
+| 22 | **[Chess Game](https://github.com/md-asif-iqbal/Chess-game-aoop)** | Java | — | Advanced OOP chess game |
+| 23 | **[Drone Manufacturer](https://github.com/md-asif-iqbal/drone-manufacturer-website-client-side)** | JavaScript, React | — | Drone company website & orders |
+
+<p align="center">
+  <i>⚡ ...and 46+ more repositories across various technologies!</i>
+</p>
 
 </details>
 
@@ -263,18 +306,38 @@ Docker / DevOps       ███████████████████�
 
 <!-- ===== ACHIEVEMENTS ===== -->
 
-## 🏅 Achievements & Highlights
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28" /> &nbsp;Achievements & Highlights
 
-<table>
-<tr>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/repository.png" width="40"/><br><b>69+</b><br><sub>Repositories</sub></td>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/rocket.png" width="40"/><br><b>10+</b><br><sub>Production Apps</sub></td>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br><b>3</b><br><sub>AI Projects</sub></td>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/smartphone-tablet.png" width="40"/><br><b>100%</b><br><sub>Responsive</sub></td>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/globe--v1.png" width="40"/><br><b>8+</b><br><sub>Live Deployments</sub></td>
-<td align="center" width="16%"><img src="https://img.icons8.com/fluency/48/toolbox.png" width="40"/><br><b>15+</b><br><sub>Tech Stacks</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/69%2B-Repositories-a855f7?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/10%2B-Production%20Apps-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/3-AI%20Projects-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/100%25-Responsive-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/8%2B-Live%20Deployments-10B981?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/15%2B-Tech%20Stacks-F59E0B?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</p>
+
+<details>
+<summary><b>🌍 Live Deployment Links (Click to expand)</b></summary>
+<br>
+
+<p align="center">
+
+| # | Project | Live URL | Status |
+|:-:|:--------|:---------|:------:|
+| 1 | 🎬 CINEWAVE | [cinewave-movie-platform.vercel.app](https://cinewave-movie-platform.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 2 | 🎓 NexLearn | [edu-platfrom-nex-learn.vercel.app](https://edu-platfrom-nex-learn.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 3 | 🤖 AI Interview | [ai-based-interview-systems.vercel.app](https://ai-based-interview-systems.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 4 | 🛒 SoftLanding POS | [soft-landing-pos-system-v2.vercel.app](https://soft-landing-pos-system-v2.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 5 | 📊 Wathta Dashboard | [wathta-dashboard.vercel.app](https://wathta-dashboard-with-next-js-ndvq.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 6 | 📦 Product Management | [product-management.vercel.app](https://product-management-with-next-js-2ek.vercel.app/products) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 7 | 💬 NECX Messaging | [necx-messaging.vercel.app](https://necx-messaging-frontend.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 8 | ✍️ BrightMind Blog | [bright-mind-blog.vercel.app](https://bright-mind-blog-fronend.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 9 | 🌐 Portfolio | [asif-portfolio.vercel.app](https://asif-portfolio-three.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+| 10 | 😊 Take Your Smile | [event-management.vercel.app](https://event-management-system-chi-ten.vercel.app/) | ![](https://img.shields.io/badge/✅-Live-10B981?style=flat-square) |
+
+</p>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -433,5 +496,5 @@ Docker / DevOps       ███████████████████�
   ⭐️ From <a href="https://github.com/md-asif-iqbal">Md Asif Iqbal</a> — If you like my work, consider giving a ⭐!
 </p>
 
-<!-- ===== WAVE FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:6366f1,50:a855f7,75:7c3aed,100:6366f1&height=120&section=footer&animation=twinkling" />
+<!-- ===== FOOTER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
