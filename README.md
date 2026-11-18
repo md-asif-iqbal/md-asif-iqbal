@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚══════╝ ╚═╝ ╚═╝         ╚═╝  ╚══▀▀═╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝
 ```
 
-### `> Mid-Level Software Engineer & Full Stack Developer`
+### `>  Software Engineer & Full Stack Developer`
 
 <p align="center">
   <b>Specializing in Scalable MERN Stack &bull; Next.js &bull; TypeScript &bull; AI-Powered SaaS &bull; Enterprise Systems</b>
@@ -18,7 +18,7 @@
 <!-- ===== ANIMATED TYPING SVG ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%F0%9F%9A%80%20Mid-Level%20Software%20Engineer%20%E2%80%94%204%20Years%20Experience;%E2%9A%A1%20Next.js%20%7C%20React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20NestJS;%F0%9F%8F%A2%20Shipped%20Production%20Apps%20Across%203%20Companies;%F0%9F%A4%96%20Architecting%20Intelligent%20AI%20Platforms%20%26%20Enterprise%20ERP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3200&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%F0%9F%9A%80%20%20Software%20Engineer%20%E2%80%94%204%20Years%20Experience;%E2%9A%A1%20Next.js%20%7C%20React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20NestJS;%F0%9F%8F%A2%20Shipped%20Production%20Apps%20Across%203%20Companies;%F0%9F%A4%96%20Architecting%20Intelligent%20AI%20Platforms%20%26%20Enterprise%20ERP" alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,12 +49,12 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;About Me
 
-> **Mid-Level Software Engineer** with **4 years** of hands-on professional experience building production-grade web applications using the **MERN stack**, **Next.js**, and **TypeScript**. Proven track record in developing AI-driven SaaS products, enterprise POS/ERP systems, and large-scale community platforms across **3 technology companies**. Experienced in architecting scalable full-stack solutions, optimizing database performance, leading end-to-end product delivery, and mentoring junior engineers.
+> ** Software Engineer** with **4 years** of hands-on professional experience building production-grade web applications using the **MERN stack**, **Next.js**, and **TypeScript**. Proven track record in developing AI-driven SaaS products, enterprise POS/ERP systems, and large-scale community platforms across **3 technology companies**. Experienced in architecting scalable full-stack solutions, optimizing database performance, leading end-to-end product delivery, and mentoring junior engineers.
 
 ```js
 const asif = {
     name: "Md Asif Iqbal",
-    role: "Mid-Level Software Engineer",
+    role: " Software Engineer",
     experience: "4 Years",
     companies: 3,
     location: "Dhaka, Bangladesh 🇧🇩",
